@@ -108,6 +108,7 @@ python app.py
 
 4. Open in browser
 ---bash
+   
 
 ## Default Admin Access
 
