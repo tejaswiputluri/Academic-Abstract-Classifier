@@ -118,7 +118,7 @@ Username: admin
 Password: admin123
 ```
 
-Important Notes
+## Important Notes
 
 Large ML model and database files should be excluded using .gitignore
 
@@ -126,7 +126,7 @@ Email credentials must be stored using environment variables
 
 This project is intended for learning and academic use
 
-License
+## License
 
 This project is released for educational purposes only.
 
