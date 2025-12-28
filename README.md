@@ -88,7 +88,10 @@ The platform integrates a modern frontend, secure authentication, admin manageme
 ```bash
 git clone https://github.com/your-username/Academic-Abstract-Classifier.git
 cd Academic-Abstract-Classifier
+```bash
 pip install -r requirements.txt
+```
+
 python app.py
 
 Install dependencies
