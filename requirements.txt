@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Mail
+catboost
+scikit-learn
+scipy
+joblib
+numpy
+Werkzeug
