@@ -95,20 +95,44 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
 
- 2. Install dependencies
----bash
+### 2. Install dependencies
+```bash
 pip install -r requirements.txt
 ```
 
-
-3. Run the application
----bash
+### 3. Run the application
+```bash
 python app.py
 ```
 
-4. Open in browser
----bash
+### 4. Open in browser
+```bash
+http://127.0.0.1:5000
+```
+
    
 
 ## Default Admin Access
+```bash
+Username: admin
+Password: admin123
+```
+
+Important Notes
+
+Large ML model and database files should be excluded using .gitignore
+
+Email credentials must be stored using environment variables
+
+This project is intended for learning and academic use
+
+License
+
+This project is released for educational purposes only.
+
+
+---
+Just tell me 👍
+
+
 
