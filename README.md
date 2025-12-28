@@ -94,15 +94,15 @@ The project integrates **modern frontend design**, **secure authentication**, **
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-### 2. Install dependencies
+ 2. Install dependencies
 ---bash
 pip install -r requirements.txt
 
-### 3. Run the application
+3. Run the application
 ---bash
 python app.py
 
-### 4. Open in browser
+4. Open in browser
 ---bash
 
 ## Default Admin Access
